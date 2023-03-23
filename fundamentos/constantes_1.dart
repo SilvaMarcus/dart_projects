@@ -1,5 +1,11 @@
+import 'dart:io';
+
 void main() {
-  // Área da circuferencia = PI  raio * raio 
+ 
+  String texto = stdin.readLineSync()!;
+  print('O valor digitado é :' + texto);
 
   
 }
+
+

@@ -1,0 +1,21 @@
+ Claro, aqui estão alguns exemplos resumidos dos tipos básicos em Dart:
+
+1. int: representa números inteiros. Exemplo: int numero = 10;
+
+2. double: representa números de ponto flutuante. Exemplo: double pi = 3.14;
+
+3. bool: representa valores booleanos verdadeiro ou falso. Exemplo: bool resultado = true;
+
+4. String: representa sequências de caracteres. Exemplo: String nome = "João";
+
+5. List: representa uma coleção de elementos em ordem. Exemplo: List<int> numeros = [1, 2, 3];
+
+6. Set: representa uma coleção de elementos não ordenados e não duplicados. Exemplo: Set<String> frutas = {'maçã', 'banana', 'laranja'};
+
+7. Map: representa uma coleção de pares chave-valor. Exemplo: Map<String, int> notas = {'João': 9, 'Maria': 10};
+
+8. dynamic: representa um tipo dinâmico que pode ser usado para qualquer tipo. Exemplo: dynamic valor = 10;
+
+9. var: representa um tipo dinâmico que é inferido pelo compilador. Exemplo: var nome = 'João';
+
+Esses são alguns dos tipos básicos em Dart. Lembre-se de que Dart é uma linguagem tipada estaticamente, o que significa que é necessário especificar o tipo das variáveis ​​em tempo de compilação. 
